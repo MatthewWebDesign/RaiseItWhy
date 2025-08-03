@@ -245,7 +245,7 @@
             }
 
             try {
-                const response = await fetch('http://localhost:3000/api/generate-why', {
+                const response = await fetch('https://why-gen-backend.onrender.com/api/generate-why', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ orgType, orgName, fundraiserType, clientInfo }),

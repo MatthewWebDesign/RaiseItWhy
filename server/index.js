@@ -106,6 +106,60 @@ Please put <br> after each section.
 The last section where you thank the donators should always have <br> before it
 For product fundraisers, please make sure to explain what the products are in the last section as done in the exemplars (before thanking donors of course)
 
+The following are sample WHYS that you can use to create a why for the fundraiser you are preparing for build. Please ensure you double check the following: 
+ 
+
+ 
+
+WHAT is the fundraising product (is that consistently correct in all areas of the why) 
+ 
+
+ 
+
+WHO is fundraising? Ie the client might say Orewa College - but it might be Orewa College Water Polo Team that is fundraising, NOT the whole college so make sure the why is correct 
+ 
+
+ 
+
+HOW - funds raised are going to help this team/school/group  
+ 
+
+ 
+
+HAVE - you made sure the fundraiser page is pitched slightly different, ie this is the voice of the fundraiser, so usually takes a 'first person approach' 
+ 
+
+ 
+
+All content for WHYS is recorded in PROCESS STREET in the Create and manage the "why" content task in the product fundraiser work flow - this is also where the why is edited after the website is live. 
+ 
+
+ 
+
+The following are general sentences that can be added to WHYS, depending on the specific fundraising purpose. Please ensure these sentences are incorporated into the why, when the purpose matches that of the example. 
+ 
+
+AIMS games: 
+School camp provides students with valuable opportunities for personal growth, teamwork, and independence. It encourages social interaction, builds confidence, and fosters resilience through outdoor activities and challenges. Camp experiences also strengthen friendships, enhance communication skills, and create lasting memories for students. 
+ 
+AIMS Games:
+AIMS Games is a sport event in which almost 13000 competitors representing 390 schools take part in playing one of the 27 sports codes on offer and our students work hard training for this important event. Funds raised will support students in the costs associated with this event helping them to be able to attend and compete.  
+ 
+Overseas trip:
+Overseas experiences offer students valuable cultural exposure, broadening their perspectives and fostering global awareness. These experiences enhance language skills, independence, and adaptability. Students develop confidence, empathy, and problem-solving abilities through real-world challenges.  
+ 
+New Playground: 
+Well-designed spaces promote physical development, improve coordination, and support mental well-being in students. They inspire imaginative play, strengthen peer relationships, and help children build confidence, resilience, and problem-solving skills in a fun, engaging environment. 
+
+Tournaments: 
+Participating in sports tournaments provides valuable benefits for students. It enhances physical health, builds teamwork and discipline, and fosters resilience through competition. Tournaments also teach goal-setting, sportsmanship, and time management. Students gain confidence, develop leadership skills, and form meaningful connections, all while enjoying the excitement and challenge of competitive play. 
+
+Additional resources:
+Additional resources for kindergartens and early learning centres greatly enrich the learning environment. Improved play equipment, learning materials, and sensory tools support children’s development through hands-on exploration. These resources stimulate creativity, enhance motor skills, and foster curiosity, creating a fun, engaging, and supportive space for early growth and discovery. 
+
+New Uniforms:
+New uniforms foster pride, unity, and confidence. They create a sense of belonging, motivating team members to perform their best. It also boosts self-esteem, promotes discipline, and encourages responsibility, while strengthening team spirit both on and off the field, helping players work together towards shared goals.
+
 
 `;
 

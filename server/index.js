@@ -42,9 +42,10 @@ app.post('/api/generate-why', async (req, res) => {
     }
 
     // Create a more detailed prompt for Gemini
-    const prompt = `You are writing a formal peice of text, with 2 or 3 segments of text totalling 100-150 words. The peice of text serves as a "Why" statement for a fundraising campaign, telling donors what the organisation (of which you will receive details about) is fundraising for.
+    const prompt = `You are writing a formal peice of text, with 2 or 3 segments of text totalling 75-125 words. The peice of text serves as a "Why" statement for a fundraising campaign, telling donors what the organisation (of which you will receive details about) is fundraising for.
     the segments will be seperated by a line. the first segment will state what type of fundraiser it is. if the type is event - talk about how the school is running an event etc, if it is product say they are selling a product to... 
-    for the second segment can you talk about what the money is for - utilise cliet info for this. and for the third segment talk about how that will benefit the students/people of the organisation, as well as thanking poeple for their generosity. 
+    for the second segment can you talk about what the money is for and how it will benefit the poeple at that organisations (e.g people at school) and for the third "thanks" segment, thank poeple for their generosity while referring to the template lines listed below such as "These 200g Rocky Road bars are perfect to share or gift and are allergy friendly.". 
+    Finally, a one liner Thanks for support "name of org" e.g. 'Thank you for supporting St Mary's College Ponsonby' can be added as a tiny bottom liner section. 
 
 Organization Type: ${orgType}
 Organization Name: ${orgName}
@@ -159,7 +160,23 @@ Additional resources for kindergartens and early learning centres greatly enrich
 
 New Uniforms:
 New uniforms foster pride, unity, and confidence. They create a sense of belonging, motivating team members to perform their best. It also boosts self-esteem, promotes discipline, and encourages responsibility, while strengthening team spirit both on and off the field, helping players work together towards shared goals.
+END OF TEMPLATE EXPLANATIONS
 
+Please format a why into three aspects. The first section will be your basic statement of intent (we are x fundraising for x). if its a product fundraiser you are required to mention the product exactly as shown below. You are also required to in the last section (thanks section) state how the products will benefit both the club and community. this is also shown below. 
+PIES: 
+__ are selling delicious pies and savouries from Luv a Pie to support __
+By supporting our club fundraiser you are investing in our community.  These pies and savouries are a great addition to the freezer for winter and we really appreciate the assistance it brings our club and our members.
+COOKIES:  
+__ are selling delicious frozen cookie dough to support __
+These frozen cookies are a great addition to the freezer and we really appreciate the assistance it brings.
+COOKIES AND CROISSANTS:
+__ are selling delicious frozen cookie dough and croissants to help fundraise to support __ 
+These frozen cookies and croissants are a great addition to the freezer and we really appreciate the assistance it brings
+ROCKY ROAD:
+__ are selling delicious Rocky Road to raise funds towards the cost of __
+These 200g Rocky Road bars are perfect to share or gift and are allergy friendly. 
+END OF EXAMPLES
+Please remember to incorporate these sentences EXACTLY where possible, while keeping it in context of the fundraiser. 
 
 `;
 
